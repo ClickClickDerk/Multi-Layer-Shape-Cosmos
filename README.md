@@ -1,2 +1,2 @@
 # Multi-Layer-Shape-Cosmos
-"Multi-Layer-Shape-Cosmos" is an immersive 3D experience where users can generate and explore a universe of multi-layered geometric grids.
+"Multi-Layer-Shape-Cosmos" is an immersive 3D experience where users can generate and explore a universe of multi-layered geometric grids. By adjusting layer count, shape type, size, and color, users craft dynamic configurations that create an array of rotating and orbiting shapes within nested grid structures. Customizable rotation and orbit speeds bring the layers to life, while camera depth controls add a feeling of dimensionality. This simulation offers a blend of geometry and artistry, allowing users to visualize how layered, interconnected systems move and interact within a spatial grid.
